@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I’m @idlevi29
 
-<!--
-**idlevi29/idlevi29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👀 About Me
+- 🌍 Based in VietNam
+- ⚡ Fun fact: Nothing
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Python
+- JavaScript
+- Kotlin
+- Lua
+## 📈 GitHub Stats
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=idlehoa&show_icons=true&theme=radical" alt="idlehoa's GitHub stats" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Top Languages
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idlehoa&layout=compact&theme=radical" alt="Top Languages" />
+
+<!---
+idlehoa/idlehoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
